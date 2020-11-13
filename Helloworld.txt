@@ -1,2 +1,3 @@
-rit
+<<<<<<< HEAD
 ssdarfwqa[pofrakofszvzxvzxvv
+>>>>>>> 53869331883479558a23bfbabe744b3edd631d00
